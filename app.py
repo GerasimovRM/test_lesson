@@ -1,2 +1,4 @@
 print('Hello world, app!')
-print('dsghsdbsodbsdo)
+print('dsghsdbsodbsdo')
+
+a = 123
